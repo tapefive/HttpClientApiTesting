@@ -42,6 +42,8 @@ public class GoRestApiTests
             status = Faker.PickRandom("active", "inactive")
         };
     }
+    
+    // Test to verify the POST Create a new user endpoint
 
     [Fact]
     public async Task TestPostCreateUser()
