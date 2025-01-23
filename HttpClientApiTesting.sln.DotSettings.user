@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=32d3842c_002D0868_002D44bd_002D8dc0_002D220c84b87f74/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestHomePageLoads" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::C9B4630E-0849-43B2-AB6C-8ABF238147DF::net8.0::HttpClientApiTesting.SeleniumTests.TestHomePageLoads&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::C9B4630E-0849-43B2-AB6C-8ABF238147DF::net8.0::HttpClientApiTesting.ApiTests.TestGetEndpoint&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::C9B4630E-0849-43B2-AB6C-8ABF238147DF::net8.0::HttpClientApiTesting.ApiTests&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::C9B4630E-0849-43B2-AB6C-8ABF238147DF::net8.0::HttpClientApiTesting.CombinedTests.TestFrontEndAndApi&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;ProjectFile&gt;C9B4630E-0849-43B2-AB6C-8ABF238147DF/f:CombinedTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;C9B4630E-0849-43B2-AB6C-8ABF238147DF/f:SeleniumTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
