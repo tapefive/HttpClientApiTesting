@@ -5,8 +5,8 @@ using Xunit.Abstractions;
 
 namespace HttpClientApiTesting;
 
-// Define a class for API tests
-public class ApiTests(ITestOutputHelper testOutputHelper)
+// Define a class for API tests using HttpClient
+public class ReqresApiTests(ITestOutputHelper testOutputHelper)
 {
     // Create an instance of HttpClient with a base URL for API requests
     private readonly HttpClient _httpClient = new() { BaseAddress = new Uri("https://reqres.in") };
